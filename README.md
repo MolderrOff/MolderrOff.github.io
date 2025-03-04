@@ -30,5 +30,19 @@ If you have any feedback, please reach out to us at sensansion@gmail.com
 [![portfolio] ( https://hh.ru/resume/d541f6adff0e4e26640039ed1f42796c446b75?hhtmFrom=resume_list )]
 
 ## 🛠 Skills
+●	C#
+●	ASP.net, GraphQL, API
+●	MVC
+●	ENTITY framework, .Net Core
+●	Микросервисы
+●	SQL, PostgreSQL, MySQL, MSSQL, Mongodb 
+●	Разработка Web-приложений
+●	JavaScript
+●	Bootstrap
+●	Docker
+●	ООП 
+●	Swagger
+●	GitHub 
+●	Linux
 C#, .NET, MSSQL, MySQL, MongoDB, Docker, MVC, ENTITY framework, .Net Core, ASP.NET, SOLID, Pyton
 
