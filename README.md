@@ -44,5 +44,5 @@ If you have any feedback, please reach out to us at sensansion@gmail.com
 ●	Swagger
 ●	GitHub 
 ●	Linux
-C#, .NET, MSSQL, MySQL, MongoDB, Docker, MVC, ENTITY framework, .Net Core, ASP.NET, SOLID, Pyton
+C#, .NET, MSSQL, MySQL, MongoDB, Docker, MVC, ENTITY framework, .Net Core, ASP.NET, SOLID, Pyton, Blazor
 
